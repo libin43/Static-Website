@@ -1,0 +1,44 @@
+.smooth-scroll{
+    scroll-behavior: smooth;
+}
+.heading{
+    background-color: slategrey;
+    border-style: solid;
+    border-color: goldenrod;
+    color: #ffffff;
+    padding: 1em;
+    padding-left: 2em;
+    padding-top: 2em;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.home{
+    padding-top: 15em;
+    padding-bottom: 7em;
+}
+.logo-img{
+    border-radius: 2em;
+}
+.font{
+    font-family: "Lucida Handwriting";
+}
+.gd-jewel{
+    background-color: gainsboro;
+}
+.gm-stone{
+    background-color: ghostwhite;
+}
+.footer{
+    background-color: slategrey;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+}
+.icons{
+    color: black;
+}
+.items{
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
